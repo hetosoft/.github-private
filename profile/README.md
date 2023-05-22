@@ -1,8 +1,9 @@
-![image](https://www.hetosoft.com.br/Arquivos/Programas/HETOSOFTSuporte.png)
-
+<h1> Hetosoft Sistemas <img src="https://www.hetosoft.com.br/Arquivos/Programas/HETOSOFTSuporte.png" width="100" height="100"></h1>
 ## Bem vindo 🙌
 
 # Repositório para Wiki das aplicações Sol.NET
+
+- [Wiki](https://github.com/hetosoft/.github-private/wiki)
 <!--
 
 **Here are some ideas to get you started:**
